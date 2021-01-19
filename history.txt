@@ -1,0 +1,45 @@
+ls
+echo
+echo
+echo
+echo
+echo
+echo
+history
+history !!
+history !!
+history !!
+history
+history !!
+history !3
+history !!
+history !3
+history !3
+history !!
+history 3
+echo apple -n
+echo apple
+echo apple -E
+echo apple -n
+echo apple -n
+echo apple -n
+echo apple -n
+echo apple -n
+echo app -n
+echo app
+echo app -n
+echo app
+ls
+ls
+ls
+ls
+ls
+ls -a
+ls -A
+man ls
+ls
+ls -a
+ls -A
+ls
+echo apple -n
+man pwd
